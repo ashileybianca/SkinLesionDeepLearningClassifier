@@ -1,8 +1,6 @@
 # Skin Lesion Classification using Deep Learning
 
-## Authors:
-- Ashiley Bianca Silva de Oliveira¹
-- Rodrigo Coelho Barros² (Advisor)
+## MALTA Lab
 
 ## Institution:
 - Escola Politécnica, PUCRS
@@ -15,5 +13,6 @@ Skin lesions refer to changes in the appearance, texture, or sensation of the sk
 - All dependencies listed in the `requirements.txt` file need to be installed. Use the following command to install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 Alternatively, if you're using Jupyter Notebook, you can execute the first cell of our notebook to install the dependencies.
